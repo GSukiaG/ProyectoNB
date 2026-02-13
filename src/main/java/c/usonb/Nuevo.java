@@ -2,14 +2,14 @@ package c.usonb;
 
 import java.util.Scanner;
 /**
- * Programa que hace kfjgsdlfkjgdfsklgjlsd
+ * Nuevo fichero a subir al repositorio
  * @author gsukia
  * @version 1.0
  * @
  */
-public class EjemploNuevo {
+public class Nuevo {
 /**
- * Método principal 
+ * Método principal kdgjdgldfhslñ
  * @param args 
  */
     public static void main(String[] args) {

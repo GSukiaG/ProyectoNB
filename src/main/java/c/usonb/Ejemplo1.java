@@ -2,7 +2,7 @@ package c.usonb;
 
 import java.util.Scanner;
 /**
- * Programa que hace kfjgsdlfkjgdfsklgjlsd
+ * Programa de ejemplo
  * @author gsukia
  * @version 1.0
  * @
